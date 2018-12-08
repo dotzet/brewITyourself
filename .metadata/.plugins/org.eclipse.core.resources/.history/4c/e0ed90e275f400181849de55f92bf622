@@ -1,0 +1,5 @@
+<div  fxLayout="row wrap"
+      fxLayoutAlign="flex-start"
+      fkFlex="80px">
+      <app-suppliers-button></app-suppliers-button>
+</div>

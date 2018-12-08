@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="com.dotzet.rest.jersey.crud.suppliers.SupplierMapper" >
+		<resultMap id="supplierResult" type="Supplier"> 
+		<result property="vat" column="vat" />
+		<result property="companyName" column="companyName"/>
+		<result property="address" column="address"/>
+		<result property="city" column="city"/>
+		<result property="region" column="region"/>
+		<result property="postalCode" column="postalCode"/>
+		<result property="country" column="country"/>
+		<result property="phone" column="phone"/>
+		<result property="fax" column="fax"/>
+		<result property="homePage" column="homePage"/>
+	</resultMap>
+	<insert id="insertSupplier" parameterType="Supplier">
+		INSERT INTO supplier(vat, companyName, address, city, region, postalCode, country, phone, fax, homePage) VALUES(#{vat}, #{companyName}, #{address}, #{city}, #{region}, #{postalCode}, #{country}, #{phone}, #{fax}, #{homePage})
+	</insert>
+	<select id="selectSupplier" parameterType="String" resultType="Supplier" resultMap="supplierResult">
+		SELECT * FROM supplier WHERE VAT=#{vat}
+	</select>
+	<update id="updateSupplier" parameterType="Supplier">
+		UPDATE supplier SET vat = #{vat}, companyName = #{companyName}, address = #{address}, city = #{city}, region = #{region}, postalCode = #{postalCode}, country = #{country}, phone = #{phone}, fax = #{fax}, homePage = #{homePage} WHERE vat=#{vat}
+	</update>
+	<delete id="deleteSupplier" parameterType="String">
+		DELETE FROM supplier WHERE vat=#{vat}
+	</delete>
+		<select id="selectAllSuppliers" resultType="Supplier" resultMap="supplierResult">
+		SELECT * FROM supplier
+	</select>
+	<delete id="deleteAll">
+		DELETE FROM supplier
+	</delete>
+</mapper> 

@@ -1,0 +1,38 @@
+import { Injectable } from '@angular/core';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { Observable} from 'rxjs';
+
+
+
+@Injectable({
+  providedIn: 'root'
+})
+export class ServiceRestService {
+
+  constructor(private http: HttpClient) { }
+  endPoint: string = 'http://localhost:8080/com.dotzet.rest.jersey.crud.suppliers/api/suppliers';
+  httpOptions = {
+    headers: new HttpHeaders({
+      'Content-Type':  'application/json'
+    })
+  };
+  getSupplier(vat): Observable <any> {
+    return this.http.get(this.endPoint + '/read/' + vat);
+  }
+
+  list(): Observable <any> {
+    return this.http.get(this.endPoint + '/list');
+  }
+
+  createSupplier(supplier): Observable <any> {
+    return this.http.put(this.endPoint + '/create', JSON.stringify(supplier), this.httpOptions);
+  }
+
+  updateSupplier(supplier): Observable <any> {
+    return this.http.patch(this.endPoint + '/update', JSON.stringify(supplier), this.httpOptions);
+  }
+
+  deleteSupplier(vat): Observable <any> {
+    return this.http.delete(this.endPoint + '/delete' + vat);
+  }
+}

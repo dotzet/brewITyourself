@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SynchronizeViewSettings">
+	</section>
+	<section name="ImportPSFDialog">
+		<item value="/home/fran/eclipse-workspace/projectSet.psf" key="previous"/>
+		<list key="filenames">
+			<item value="/home/fran/eclipse-workspace/projectSet.psf"/>
+		</list>
+	</section>
+</section>

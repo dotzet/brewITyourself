@@ -1,0 +1,9 @@
+<div    fxLayout="row wrap"
+        fxLayoutAlign="flex-start" style="background-color: red;">
+        <app-suppliers-dashboard-header></app-suppliers-dashboard-header>
+
+</div>
+<div    fxLayout="row wrap"
+        fxLayoutAlign="flex-start" style="background-color: blue;">
+        <app-suppliers-table></app-suppliers-table>
+<div>

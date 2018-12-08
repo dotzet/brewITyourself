@@ -1,0 +1,7 @@
+<mat-card style="width: 4em; height: auto; flex-direction: column; align-content: center; ">
+    <mat-card-content style="display:flex; flex-direction: column; background-color: red;">
+        
+    </mat-card-content>
+    <img mat-card-image style="background-color: red" src="../../assets/images/logoCCVK-SVG.svg">
+    <mat-card-footer style="top: -50px; text-align: center;">Proveedores</mat-card-footer>
+</mat-card>

@@ -1,0 +1,804 @@
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 2.6.2
+getTemplateReferences: 13424ms
+Add recursive watcher for: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard
+Opened configuration file /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Config errors encountered and need to be reported: 1
+  Argument for '--lib' option must be: 'es5', 'es6', 'es2015', 'es7', 'es2016', 'es2017', 'esnext', 'dom', 'dom.iterable', 'webworker', 'scripthost', 'es2015.core', 'es2015.collection', 'es2015.generator', 'es2015.iterable', 'es2015.promise', 'es2015.proxy', 'es2015.reflect', 'es2015.symbol', 'es2015.symbol.wellknown', 'es2016.array.include', 'es2017.object', 'es2017.sharedmemory', 'es2017.string', 'es2017.intl', 'esnext.asynciterable'.
+getDiagnostics: 26ms
+getHoverAt: 2ms
+getCompletions: 435ms
+getDiagnostics: 783ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 464ms
+getCompletions: 292ms
+getDiagnostics: 1477ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 315ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 972ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 726ms
+getCompletions: 267ms
+getDiagnostics: 1123ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 343ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 1078ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 288ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getCompletions: 182ms
+getDiagnostics: 763ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 192ms
+getDiagnostics: 539ms
+getDiagnostics: 578ms
+getDiagnostics: 246ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 810ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 395ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 122ms
+getDiagnostics: 494ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 155ms
+getDiagnostics: 193ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 1153ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 249ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 546ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 179ms
+getDiagnostics: 171ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 13ms
+getDiagnostics: 729ms
+updating project structure from ...
+updated: ng - 0ms
+remove project: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.e2e-spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.po.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/main.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/polyfills.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/test.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-routing.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.prod.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.ts
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 2.6.2
+getTemplateReferences: 18645ms
+Add recursive watcher for: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard
+Opened configuration file /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 77ms
+getHoverAt: 4ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 678ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 311ms
+getDiagnostics: 1670ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 133ms
+getDiagnostics: 445ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 808ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 379ms
+getDiagnostics: 782ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getCompletions: 149ms
+getDiagnostics: 380ms
+getDiagnostics: 718ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 83ms
+getDiagnostics: 329ms
+getCompletions: 194ms
+getDiagnostics: 809ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 376ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 112ms
+getDiagnostics: 618ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 228ms
+getDiagnostics: 694ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 211ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 103ms
+getDiagnostics: 599ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 283ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 319ms
+getDiagnostics: 658ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 298ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 199ms
+getDiagnostics: 873ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 328ms
+getCompletions: 216ms
+getDiagnostics: 514ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 979ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 65ms
+getDiagnostics: 200ms
+getCompletions: 167ms
+getDiagnostics: 1140ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 509ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 736ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+remove project: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.e2e-spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.po.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/main.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/polyfills.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/test.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-routing.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.prod.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.ts
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 2.6.2
+getTemplateReferences: 8644ms
+Add recursive watcher for: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard
+Opened configuration file /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 5ms
+getHoverAt: 0ms
+getDiagnostics: 371ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 1160ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 338ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 1008ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 400ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getCompletions: 323ms
+getDiagnostics: 2054ms
+updating project structure from ...
+updated: ng - 0ms
+remove project: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.e2e-spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.po.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/main.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/polyfills.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/test.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-routing.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.prod.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.ts
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 2.6.2
+getTemplateReferences: 21519ms
+Add recursive watcher for: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard
+Opened configuration file /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 26ms
+getHoverAt: 4ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getDiagnostics: 417ms
+updating project structure from ...
+updated: ng - 0ms
+remove project: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.e2e-spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.po.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/main.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/polyfills.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/test.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-routing.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.prod.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.ts
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 2.6.2
+getTemplateReferences: 10565ms
+Add recursive watcher for: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard
+Opened configuration file /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 6ms
+getHoverAt: 0ms
+getDiagnostics: 416ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 1162ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 569ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 1324ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 155ms
+getDiagnostics: 280ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getDiagnostics: 696ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 274ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 1036ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 395ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 867ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 474ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 939ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 350ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 533ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 330ms
+getCompletions: 110ms
+getDiagnostics: 849ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 400ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 240ms
+getDiagnostics: 691ms
+updating project structure from ...
+updated: ng - 0ms
+remove project: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.e2e-spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.po.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/main.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/polyfills.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/test.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-routing.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.prod.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.ts
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 2.6.2
+getTemplateReferences: 24344ms
+Add recursive watcher for: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard
+Opened configuration file /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 6ms
+getDiagnostics: 552ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getCompletions: 285ms
+getDiagnostics: 1770ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 465ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 855ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 693ms
+getDiagnostics: 751ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 458ms
+getDiagnostics: 729ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 134ms
+getDiagnostics: 368ms
+getCompletions: 166ms
+getDiagnostics: 952ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 498ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 531ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 171ms
+getDiagnostics: 995ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 1580ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 338ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 56ms
+getDiagnostics: 514ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getCompletions: 233ms
+getDiagnostics: 508ms
+getDiagnostics: 1302ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 706ms
+getDiagnostics: 1114ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 104ms
+getDiagnostics: 198ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 676ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 222ms
+getDiagnostics: 310ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 636ms
+getDiagnostics: 258ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 805ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 586ms
+getDiagnostics: 814ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 466ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getDiagnostics: 616ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 393ms
+getCompletions: 160ms
+getDiagnostics: 1414ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 350ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 176ms
+getDiagnostics: 1123ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 300ms
+getCompletions: 217ms
+getDiagnostics: 652ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 626ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 393ms
+getDiagnostics: 973ms
+updating project structure from ...
+updated: ng - 0ms
+remove project: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.e2e-spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/e2e/src/app.po.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/main.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/polyfills.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/test.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-routing.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app.module.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/suppliers-dao.service.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/app-body.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/main-dashboard-crumb/main-dashboard-crumb.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/main-dashboard/suppliers-button/suppliers-button.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create/supplier-create.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-create-form/supplier-create-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete/supplier-delete.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-delete-form/supplier-delete-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form/supplier-read-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update/supplier-update.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-update-form/supplier-update-form.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-dashboard-header/suppliers-dashboard-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table/suppliers-table.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/application-header.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-logo/company-logo.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.spec.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/application-header/company-name/company-name.component.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.prod.ts,/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/environments/environment.ts
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 2.6.2
+getTemplateReferences: 11226ms
+Add recursive watcher for: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard
+Opened configuration file /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 11ms
+getHoverAt: 1ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 713ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 1297ms
+getTemplateReferences: 0ms
+getDiagnostics: 851ms
+getHoverAt: 522ms
+getHoverAt: 341ms
+getDiagnostics: 489ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 1189ms
+getDiagnostics: 109ms
+getDiagnostics: 698ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 720ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 815ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 821ms
+getDiagnostics: 501ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 798ms
+getDiagnostics: 106ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 187ms
+getCompletions: 901ms
+getDiagnostics: 260ms
+getDiagnostics: 635ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 588ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 824ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 679ms
+updating project structure from ...
+getTemplateReferences: 151ms
+updated: ng - 0ms
+getDiagnostics: 502ms
+updating project structure from ...
+getTemplateReferences: 140ms
+updated: ng - 0ms
+getDiagnostics: 679ms
+updating project structure from ...
+getTemplateReferences: 178ms
+updated: ng - 0ms
+getDiagnostics: 603ms
+updating project structure from ...
+getTemplateReferences: 103ms
+updated: ng - 0ms
+getDiagnostics: 486ms
+updating project structure from ...
+getTemplateReferences: 85ms
+updated: ng - 0ms
+getDiagnostics: 461ms
+updating project structure from ...
+getTemplateReferences: 81ms
+updated: ng - 0ms
+getCompletions: 881ms
+getDiagnostics: 167ms
+getDiagnostics: 611ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 743ms
+getCompletions: 824ms
+getDiagnostics: 129ms
+getCompletions: 1081ms
+getDiagnostics: 206ms
+getDiagnostics: 569ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 63ms
+getCompletions: 856ms
+getDiagnostics: 109ms
+getDiagnostics: 538ms
+getCompletions: 777ms
+getDiagnostics: 154ms
+getDiagnostics: 467ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 598ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 282ms
+getDiagnostics: 782ms
+updating project structure from ...
+getTemplateReferences: 122ms
+updated: ng - 0ms
+getDiagnostics: 918ms
+updating project structure from ...
+getTemplateReferences: 97ms
+updated: ng - 0ms
+getDiagnostics: 857ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 206ms
+getHoverAt: 283ms
+getHoverAt: 76ms
+getDiagnostics: 811ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 646ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 718ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 735ms
+updating project structure from ...
+getTemplateReferences: 1ms
+updated: ng - 0ms
+getDiagnostics: 708ms
+updating project structure from ...
+getTemplateReferences: 500ms
+updated: ng - 0ms
+getDiagnostics: 817ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 743ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 723ms
+getDiagnostics: 573ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 45ms
+getDiagnostics: 375ms
+getDiagnostics: 720ms
+getCompletions: 564ms
+getDiagnostics: 60ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 164ms
+getHoverAt: 68ms
+getHoverAt: 190ms
+getDiagnostics: 997ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 673ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 513ms
+getDiagnostics: 564ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 799ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 676ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 619ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 562ms
+getDiagnostics: 308ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 531ms
+getDiagnostics: 171ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 474ms
+updating project structure from ...
+getTemplateReferences: 273ms
+updated: ng - 0ms
+getDiagnostics: 429ms
+getDiagnostics: 549ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 425ms
+getDiagnostics: 556ms
+getDiagnostics: 372ms
+updating project structure from ...
+getTemplateReferences: 37ms
+updated: ng - 0ms
+getDiagnostics: 522ms
+updating project structure from ...
+getTemplateReferences: 158ms
+updated: ng - 0ms
+getDiagnostics: 700ms
+getDiagnostics: 828ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 664ms
+getDiagnostics: 471ms
+updating project structure from ...
+getTemplateReferences: 77ms
+updated: ng - 0ms
+getHoverAt: 109ms
+getDiagnostics: 637ms
+updating project structure from ...
+getTemplateReferences: 93ms
+updated: ng - 0ms
+getHoverAt: 121ms
+getDiagnostics: 731ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 652ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 100ms
+getDiagnostics: 677ms
+getDiagnostics: 629ms
+updating project structure from ...
+getTemplateReferences: 1ms
+updated: ng - 0ms
+getDiagnostics: 540ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 685ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 595ms
+getCompletions: 757ms
+getDiagnostics: 224ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 485ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 143ms
+getDiagnostics: 1082ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 589ms
+getDiagnostics: 804ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 654ms
+getCompletions: 678ms
+getDiagnostics: 116ms
+getDiagnostics: 577ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 644ms
+getDiagnostics: 115ms
+getCompletions: 564ms
+getDiagnostics: 643ms
+getCompletions: 751ms
+getDiagnostics: 122ms
+getDiagnostics: 677ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 44ms
+getHoverAt: 51ms
+getDiagnostics: 615ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 437ms
+updating project structure from ...
+getTemplateReferences: 89ms
+updated: ng - 0ms
+getDiagnostics: 492ms
+getCompletions: 635ms
+getDiagnostics: 286ms
+updating project structure from ...
+getTemplateReferences: 35ms
+updated: ng - 0ms
+getDiagnostics: 742ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 504ms
+updating project structure from ...
+getTemplateReferences: 96ms
+updated: ng - 0ms
+getHoverAt: 69ms
+getCompletions: 694ms
+getDiagnostics: 223ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 55ms
+getHoverAt: 168ms
+getDiagnostics: 809ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 1549ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 1748ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms

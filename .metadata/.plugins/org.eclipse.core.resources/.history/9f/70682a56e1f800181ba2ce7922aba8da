@@ -1,0 +1,10 @@
+<div  fxLayout = "row wrap">
+      <div fxLayoutAlign= "flex-start top"
+            fxFlex="80%"
+            class="suppliers-dashboard-header">
+            Proveedores
+      </div>
+      <div fxLaoyout="20%" fxLayoutAlign="flex-end top">
+            <app-supplier-create></app-supplier-create>
+      </div>
+</div>

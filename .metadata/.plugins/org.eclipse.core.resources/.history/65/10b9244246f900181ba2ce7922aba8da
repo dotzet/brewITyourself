@@ -1,0 +1,38 @@
+mat-card {
+    max-width: 4em !important;;
+    max-height: 4em !important;;
+    width: 4em !important;;
+    height: 4em !important;;
+    border: 2px solid black !important;;
+    border-radius: 20px !important;;
+    padding-top: -2em !important;;
+    margin-left: 2em !important;;
+    margin-top: 2em !important;;
+    background-color: black !important;;
+}
+
+mat-card-image {
+    max-width: 4em !important;;
+    width: 4em !important;;
+    max-height: 4em !important;;
+    height: 4em !important;;    
+}
+
+mat-card-content {
+    color: black !important;;
+    text-align: center !important;;
+    font-size: 1em !important;;
+    font-weight: 500 !important;;
+    margin-top: -1em !important;;
+    margin-left: -2em !important;;
+    margin-right: -2em !important;;
+    margin-bottom: -1em !important;;
+    padding: 0
+}
+
+.main-dashboard-button-vertical-space {
+    min-height: 1em;
+    height: 1em;
+    min-width: 1em;
+    width: 1em;
+}

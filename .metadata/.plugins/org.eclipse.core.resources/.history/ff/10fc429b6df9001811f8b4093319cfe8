@@ -1,0 +1,21 @@
+.suppliers-dashboard-header {
+    height: 2.5em;
+    max-height: 2.5em;
+}
+
+.suppliers-dashboard-header-text {
+    height: 2.5em;
+    max-height: 2.5em;
+    color: black;
+    font-weight: 1000;
+    align-content: left;
+}
+
+.suppliers-dashboard-header-buttoms {
+    height: 2.5em;
+    max-height: 2.5em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    align-self: flex-end;
+    padding-right: 0em;
+}

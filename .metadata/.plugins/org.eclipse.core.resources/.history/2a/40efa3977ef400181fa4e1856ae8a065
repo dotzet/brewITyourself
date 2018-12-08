@@ -1,0 +1,18 @@
+.app-header {
+    align-content: flex-start;
+    height: 2em;
+    max-height: 2em;
+}
+
+.app-header-company-name {
+    background-color: white;
+}
+
+.app-header-company-logo {
+    align-content: center;
+    background-color: white;
+}
+
+.app-horizontal-spacer {
+    min-height: 0.1em;
+}

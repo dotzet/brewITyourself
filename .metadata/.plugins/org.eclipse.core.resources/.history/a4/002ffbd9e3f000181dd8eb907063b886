@@ -1,0 +1,13 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<mat-grid-list cols="50" rowsHeight="1em">
+  <mat-grid-tile [colspan]="49" [rowspan]="1">
+    <div class="text-inside-grid">CCVK</div>
+  </mat-grid-tile>
+  <mat-grid-tile [colspan]="1" [rowspan]="2">
+    <img height="100%" width="auto" alt="CCVK Logo" src="../assets/images/logoCCVK.jpg">
+  </mat-grid-tile>
+  <mat-grid-tile [colspan]="49" [rowspan]="1">
+    <div class="text-inside-grid">Here will go placed the breadcrumbs with small icons</div>
+  </mat-grid-tile>
+</mat-grid-list>
+

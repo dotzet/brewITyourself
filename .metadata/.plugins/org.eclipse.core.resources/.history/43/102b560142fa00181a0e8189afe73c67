@@ -1,0 +1,31 @@
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="VAT" required>
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="Company Name">
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="Address">
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="City">
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="Region">
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="Postal code">
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="Country">
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="Phone">
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="Fax">
+    </mat-form-field>
+    <mat-form-field [floatLabel]="options.value.floatLabel">
+      <input matInput placeholder="Home page">
+    </mat-form-field>
+</form>

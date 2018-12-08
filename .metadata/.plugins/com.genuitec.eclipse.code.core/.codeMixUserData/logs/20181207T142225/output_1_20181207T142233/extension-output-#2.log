@@ -1,0 +1,4 @@
+[Info  - 2:23:24 PM] Using tsserver from: /home/fran/.codemix/engine/resources/app/extensions/node_modules/typescript/lib
+[Info  - 2:23:24 PM] Forking TSServer
+PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-11-oracle/bin:/usr/lib/jvm/java-11-oracle/db/bin:/usr/lib/jvm/java-11-oracle/bin:/usr/lib/jvm/java-11-oracle/db/bin 
+[Info  - 2:23:24 PM] Started TSServer

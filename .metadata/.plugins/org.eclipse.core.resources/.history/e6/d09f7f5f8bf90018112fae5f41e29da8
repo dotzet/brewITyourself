@@ -1,0 +1,38 @@
+mat-form-field {
+    border: 1px !important;;
+    border-style: dotted !important;;
+    border-color: darkgray !important;;
+    border-radius: 8px !important;;
+    margin-left: 0em !important;;
+    margin-bottom: 0.5em !important;;
+    width: 100%;;
+}
+
+mat-form-field img {
+    max-height: 1em;
+    height: 1em;
+    max-width: 1em;
+    height: 1em;
+}
+
+table {
+    width: 100%;
+    padding-block-start: 0em !important;
+}
+
+th {
+    border: 0.5pt !important;;
+    border-color: lightgray !important;;
+    border-style: solid !important;;
+    background-color: gray !important;;
+    margin-left: 0em !important;;
+    text-align: left !important;;
+    padding-left: 0.2em !important;;
+    padding-bottom: 0.2em !important;;
+    vertical-align: text-top !important;;
+}
+
+td {
+
+}
+

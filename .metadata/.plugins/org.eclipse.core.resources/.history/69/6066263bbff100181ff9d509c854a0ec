@@ -1,0 +1,7 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <span>CCVK</span>
+    <span class="header-spacer"></span>
+    <img src="../../favicon.ico" />
+  </mat-toolbar-row>
+</mat-toolbar>

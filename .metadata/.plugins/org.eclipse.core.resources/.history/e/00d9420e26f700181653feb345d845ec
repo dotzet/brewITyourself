@@ -1,0 +1,4 @@
+Suppliers table component loaded!!!
+
+<h1>{{suppliersJSON.subscribe}}</h1>
+

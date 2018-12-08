@@ -1,0 +1,13 @@
+mat-card {
+        border: 3px solid black !important;;
+    border-radius: 5px !important;;
+    margin-left: 0em !important;;
+    margin-top: 0em !important;;
+}
+
+mat-card a img {
+    max-width: 2em !important;;
+    width: 2em important;;
+    max-height: 2em !important;;
+    height: 2em !important;;    
+}

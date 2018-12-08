@@ -1,0 +1,5 @@
+.suppliers-table-filter {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+}

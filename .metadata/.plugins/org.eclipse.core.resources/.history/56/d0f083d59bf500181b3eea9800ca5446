@@ -1,0 +1,37 @@
+<div  fxLayout="row wrap"
+      fxLayoutAlign="flex-start"
+      fkFlex="3em"
+      style="margin: 1em;">
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+      <app-suppliers-button></app-suppliers-button>
+      <div class="general-spacer"><span><p> </p></span></div>
+</div>

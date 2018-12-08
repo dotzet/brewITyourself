@@ -1,0 +1,4 @@
+.app-control-width {
+    align-self: center !important;;
+    max-width: 99% !important;;
+}

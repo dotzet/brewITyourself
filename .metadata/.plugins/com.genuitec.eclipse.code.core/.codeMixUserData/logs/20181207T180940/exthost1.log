@@ -1,0 +1,66 @@
+[2018-12-07 18:09:55.725] [exthost1] [info] extension host started
+[2018-12-07 18:09:56.367] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:09:56.385] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/debug-auto-launch/out/extension
+[2018-12-07 18:09:56.563] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:09:56.583] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/emmet/dist/extension
+[2018-12-07 18:09:57.559] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:09:57.592] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/merge-conflict/out/extension
+[2018-12-07 18:09:57.772] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:09:57.777] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/search-rg/out/extension
+[2018-12-07 18:09:57.922] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:09:57.939] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-12-07 18:09:58.105] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:09:58.109] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/dbaeumer.vscode-eslint-1.4.10/client/out/extension
+[2018-12-07 18:09:58.894] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:09:58.894] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2018-12-07 18:09:58.905] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:09:58.905] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/hookyqr.beautify-1.3.0/extension
+[2018-12-07 18:09:59.263] [exthost1] [info] eager extensions activated
+[2018-12-07 18:10:01.917] [exthost1] [info] extension host started
+[2018-12-07 18:10:02.027] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:10:02.027] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/debug-auto-launch/out/extension
+[2018-12-07 18:10:02.070] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:10:02.076] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/emmet/dist/extension
+[2018-12-07 18:10:02.405] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:10:02.405] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/merge-conflict/out/extension
+[2018-12-07 18:10:02.497] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:10:02.497] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/search-rg/out/extension
+[2018-12-07 18:10:02.538] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:10:02.538] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-12-07 18:10:02.567] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:10:02.567] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/dbaeumer.vscode-eslint-1.4.10/client/out/extension
+[2018-12-07 18:10:02.830] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:10:02.830] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2018-12-07 18:10:02.838] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-12-07 18:10:02.838] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/hookyqr.beautify-1.3.0/extension
+[2018-12-07 18:10:03.074] [exthost1] [info] eager extensions activated
+[2018-12-07 18:10:03.100] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-07 18:10:03.100] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/configuration-editing/out/extension
+[2018-12-07 18:10:03.141] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-07 18:10:03.141] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-07 18:10:03.636] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-07 18:10:03.636] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-07 18:10:04.001] [exthost1] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-07 18:10:04.001] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/grunt/out/main
+[2018-12-07 18:10:04.014] [exthost1] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-07 18:10:04.014] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/gulp/out/main
+[2018-12-07 18:10:04.028] [exthost1] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-07 18:10:04.028] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/jake/out/main
+[2018-12-07 18:10:04.040] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-07 18:10:04.040] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/npm/out/main
+[2018-12-07 18:10:04.156] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-12-07 18:10:04.156] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2018-12-07 18:10:04.773] [exthost1] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-12-07 18:10:04.773] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/angular.ng-template-0.1.9/out/extension
+[2018-12-07 18:10:04.872] [exthost1] [info] ExtensionService#_doActivateExtension mkaufman.HTMLHint {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-12-07 18:10:04.872] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/mkaufman.htmlhint-0.5.0/out/extension
+[2018-12-07 18:11:42.271] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-12-07 18:11:42.271] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/css-language-features/client/dist/cssMain
+[2018-12-07 18:15:10.385] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-12-07 18:15:10.385] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/engine/resources/app/extensions/extension-editing/out/extension
+[2018-12-07 18:15:10.492] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-12-07 18:15:10.493] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/christian-kohler.npm-intellisense-1.3.0/out/src/extension
+[2018-12-07 18:15:10.707] [exthost1] [info] ExtensionService#_doActivateExtension eg2.tslint {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-12-07 18:15:10.707] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/eg2.tslint-1.0.29/out/extension
+[2018-12-07 18:15:11.254] [exthost1] [info] ExtensionService#_doActivateExtension rbbit.typescript-hero {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-12-07 18:15:11.255] [exthost1] [info] ExtensionService#loadCommonJSModule /home/fran/.codemix/extensions/rbbit.typescript-hero-2.3.2/out/src/extension

@@ -1,0 +1,32 @@
+.suppliers-table-filter-icon {
+    max-width: 10px;
+    max-height: 10px;
+}
+
+mat-form-field {
+    border: 1px dashed black !important;;
+}
+
+table {
+    width: 100%
+}
+
+th {
+   border-left: 1px !important;;
+   border-left-color: black !important;;
+   border-left-style: solid !important;;
+   margin-left: 0px !important;;
+   text-align: left !important;;
+   padding-left: 0.02em !important;;
+   background-color: red !important;;
+
+}
+
+td {
+    border: 2px;
+    border-color: black;
+    max-height: 1em;
+    padding: 0.5em;
+    background-color: blue !important;;
+}
+

@@ -1,0 +1,28 @@
+import { Component, AfterViewInit, Input } from '@angular/core';
+import { SuppliersDaoService } from '../../../suppliers-dao.service';
+import { HttpClient } from '@angular/common/http';
+
+@Component({
+  selector: 'app-supplier-read-form/',
+  templateUrl: './supplier-read-form.component.html',
+  styleUrls: ['./supplier-read-form.component.css']
+})
+export class SupplierReadFormComponent implements AfterViewInit {
+  @Input() supplier: string;
+  suppliersDao: SuppliersDaoService | null;
+  supplierJSONstring: string;
+  supplierJSON: JSON;
+  constructor(private http: HttpClient) {
+    console.log(this.supplier);
+  }
+
+  ngAfterViewInit() {
+    console.log(this.supplier);
+    this.suppliersDao = new SuppliersDaoService(this.http);
+    this.suppliersDao.getSupplier(this.supplier).subscribe((data) => {
+    this.supplierJSONstring = JSON.stringify(data);
+    this.supplierJSON = JSON.parse(this.supplierJSONstring);
+    });
+  }
+
+}

@@ -1,0 +1,38 @@
+mat-form-field {
+    border: 1px !important;;
+    border-style: dotted !important;;
+    border-color: black !important;;
+    border-radius: 8px !important;;
+    margin-bottom: 0.5em !important;;
+}
+
+mat-form-field img {
+    max-height: 1em;
+    height: 1em;
+    max-width: 1em;
+    height: 1em;
+}
+
+table {
+    width: 100%
+}
+
+th {
+   border-left: 1px !important;;
+   border-left-color: black !important;;
+   border-left-style: solid !important;;
+   margin-left: 0px !important;;
+   text-align: left !important;;
+   padding-left: 0.02em !important;;
+   background-color: red !important;;
+
+}
+
+td {
+    border: 2px;
+    border-color: black;
+    max-height: 1em;
+    padding: 0.5em;
+    background-color: blue !important;;
+}
+

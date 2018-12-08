@@ -1,0 +1,7 @@
+<a [routerLink]="['/suppliers']">
+<mat-card class="my-mat-card-suppliers">
+        <img mat-card-image class="my-mat-card-image" src="../../assets/images/supplier-icon-png.png">
+        <mat-card-footer class="my-mat-card-footer-suppliers">Proveedores</mat-card-footer>
+</mat-card>
+</a>
+

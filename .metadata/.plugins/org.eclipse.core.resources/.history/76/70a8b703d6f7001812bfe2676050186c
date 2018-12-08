@@ -1,0 +1,44 @@
+<mat-table [dataSource]="datasource" class="mat-elevation-z8">
+    <ng-container matColumnDef="vat">
+        <mat-header-cell *matHeaderCellDef> VAT </mat-header-cell>
+        <mat-cell *matCellDef="let vat"> {{suppliersJSON.vat}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="companyName">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let companyName"> {{suppliersJSON.companyName}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="address">
+        <mat-header-cell *matHeaderCellDef> Address </mat-header-cell>
+        <mat-cell *matCellDef="let address"> {{suppliersJSON.address}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="city">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let city"> {{suppliersJSON.city}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="region">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let region"> {{suppliersJSON.region}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="postalCode">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let postalCode"> {{suppliersJSON.postalCode}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="contry">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let country"> {{suppliersJSON.country}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="phone">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let phone"> {{suppliersJSON.phone}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="fax">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let fax"> {{suppliersJSON.fax}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="homePage">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let homePage"> {{suppliersJSON.homePage}} </mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>

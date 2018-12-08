@@ -1,0 +1,56 @@
+import {Component, AfterViewInit, ViewChild} from '@angular/core';
+import {HttpClient} from '@angular/common/http';
+import {MatPaginator, MatSort, MatTableDataSource } from '@angular/material';
+import {merge} from 'rxjs';
+import {of as observableOf} from 'rxjs';
+import {catchError} from 'rxjs/operators';
+import {map} from 'rxjs/operators';
+import {startWith} from 'rxjs/operators';
+import {switchMap} from 'rxjs/operators';
+
+
+
+
+@Component({
+  selector: 'app-suppliers-table',
+  templateUrl: './suppliers-table.component.html',
+  styleUrls: ['./suppliers-table.component.css']
+})
+export class SuppliersTableComponent implements AfterViewInit {
+
+  displayedColumns = ['VAT', 'Company name', 'Address', 'City', 'Region', 'Postal Code', 'Country', 'Phone number', 'Fax', 'Home page'];
+  suppliersDao: SuppliersDaoService | null;
+  dataSource = new MatTableDataSource;
+
+  resultsLength = 0;
+  isLoadingResults = false;
+  isRateLimitReached = false;
+
+  @ViewChild(MatPaginator) paginator: MatPaginator;
+  @ViewChild(MatSort) sort: MatSort;
+  constructor(private http: HttpClient) { }
+
+  ngAfterViewInit() {
+    this.suppliersDao = new SuppliersDaoService(this.http);
+    this.sort.sortChange.subscribe(() => this.paginator.pageIndex = 0);
+    merge(this.sort.sortChange, this.paginator.page)
+      .pipe(  startWith({}),
+              switchMap(() => {
+                this.isLoadingResults = true;
+                return this.suppliersDao.getSuppliers(this.sort.active, this.sort.direction, this.paginator.pageIndex);
+              }),
+              map(data => {
+                this.isLoadingResults = false;
+                this.isRateLimitReached = false;
+                this.resultsLength = data.total_count;
+                return data.items;
+              }),
+              catchError(() => {
+                this.isLoadingResults = false;
+                this.isRateLimitReached = true;
+                return observableOf([]);
+              })
+          ).subscribe(data => this.dataSource.data = data);
+  }
+}
+

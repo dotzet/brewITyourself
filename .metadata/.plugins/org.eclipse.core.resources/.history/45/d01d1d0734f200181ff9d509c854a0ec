@@ -1,0 +1,10 @@
+<div 
+  fxLayout="row wrap" 
+  fxLayout.lt-sm="column" 
+  fxLayoutGap="4em" 
+  fxLayoutAlign="flex-start">
+  <div 
+    fxFlex="0 1 calc(90% - 4em)">
+        <span>CCVK</span>
+    </div>
+</div>

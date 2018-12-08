@@ -1,0 +1,80 @@
+mat-form-field {
+    border: 1px !important;;
+    border-style: dotted !important;;
+    border-color: darkgray !important;;
+    border-radius: 8px !important;;
+    margin-left: 0em !important;;
+    margin-bottom: 0.5em !important;;
+    width: 100% !important;;
+    white-space: nowrap !important;;
+    word-break: break-all !important;;
+    font-family: sans-serif !important;;
+    font-size: 8pt !important;;
+    font-weight: 500 !important;;
+}
+
+mat-form-field img {
+    max-height: 2em;
+    height: 2em;
+    max-width: 2em;
+    height: 2em;
+}
+
+table {
+    width: 100% !important;;
+    margin-bottom: 1em;
+}
+
+th {
+    border: 0.5pt !important;;
+    border-color: lightgray !important;;
+    border-style: solid !important;;
+    background-color: gray !important;;
+    margin-left: 0em !important;;
+    text-align: left !important;;
+    padding-left: 0.2em !important;;
+    padding-top: 0.2em !important;;
+    vertical-align: text-top !important;;
+    font-family: sans-serif !important;;
+    font-weight: 800 !important;;
+    color: white !important;;
+    white-space: nowrap !important;;
+    word-break: break-all !important;;
+    font-family: sans-serif !important;;
+    font-size: 8pt !important;;
+    max-height: 2em;
+    height: 2em;
+}
+
+td {
+    border: 0.5pt !important;;
+    border-color: lightgray !important;;
+    border-style: solid !important;;
+    padding-left: 0.2em !important;;
+    padding-top: 0.2em !important;;
+    vertical-align: center !important;;
+    white-space: nowrap !important;;
+    word-break: break-all !important;;
+    font-family: sans-serif !important;;
+    font-size: 8pt !important;;
+    font-weight: 500 !important;;
+    max-height: 2em;
+    height: 2em;
+}
+
+.suppliers-table-actions-column {
+    width: 20% !important;;
+}
+
+.suppliers-table-name-column {
+    width: 80% !important;;
+}
+
+.suppliers-table-paginator {
+    width: 100%;
+    white-space: nowrap !important;;
+    word-break: break-all !important;;
+    font-family: sans-serif !important;;
+    font-size: 8pt !important;;
+    font-weight: 500 !important;;
+}

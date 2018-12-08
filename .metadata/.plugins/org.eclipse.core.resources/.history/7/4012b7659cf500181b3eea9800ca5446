@@ -1,0 +1,7 @@
+.general-spacer {
+    min-height: 1em;
+    height: 1em;
+    min-width: 1em;
+    width: 1em;
+    background-color: red;
+}

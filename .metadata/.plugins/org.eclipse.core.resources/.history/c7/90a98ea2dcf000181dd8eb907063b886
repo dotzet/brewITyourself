@@ -1,0 +1,7 @@
+.text-inside-grid {
+    margin-top: 0.5em;
+    margin-left: 0em;
+    text-align: left;
+    font-size: 1em;
+    font-weight: 600;
+}

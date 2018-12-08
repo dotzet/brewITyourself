@@ -1,0 +1,184 @@
+2018-11-22 20:45:14,069 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2018-11-22 20:50:27,189 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-22 20:59:55,870 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-22 21:13:04,423 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-22 21:18:20,891 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-22 21:29:14,278 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-22 21:31:49,568 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 13:04:00,903 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 13:06:18,083 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 13:14:29,443 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 15:09:05,606 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 16:00:18,185 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 16:03:36,450 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 16:08:29,509 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 16:11:40,085 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 16:18:51,920 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 16:24:51,670 [Worker-9: Advanced source lookup job] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.27/jersey-server-2.27-sources.jar
+2018-11-23 16:24:52,005 [Worker-9: Advanced source lookup job] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.27/jersey-server-2.27-sources.jar
+2018-11-23 19:09:49,049 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 19:34:17,755 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-23 20:36:40,210 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/9.0.13/tomcat-catalina-9.0.13-sources.jar
+2018-11-23 20:36:41,375 [Worker-44: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/9.0.13/tomcat-catalina-9.0.13-sources.jar
+2018-11-24 12:46:33,426 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-24 19:18:35,095 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-24 19:26:39,867 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-24 19:37:06,808 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-24 21:24:30,143 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-24 21:29:58,968 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-25 14:07:05,876 [Worker-9: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-25 14:17:30,232 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-25 14:20:25,627 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-25 14:28:16,352 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-25 15:21:10,753 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-25 15:40:58,998 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-25 18:01:25,037 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-25 18:06:15,667 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-25 18:17:31,974 [Worker-11: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-25 18:25:32,914 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-26 09:38:28,394 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-26 10:51:12,434 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-26 12:55:36,611 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-26 13:05:45,833 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-26 13:10:46,435 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-26 14:29:30,224 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-26 15:02:55,570 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-26 15:15:58,943 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-26 18:22:04,818 [Worker-3: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-26 18:29:44,269 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-26 18:57:38,066 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-26 19:30:39,798 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-26 21:44:24,474 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-27 13:33:33,872 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-27 18:09:51,800 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-27 19:17:09,885 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-27 20:11:48,779 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-28 12:53:38,268 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-28 15:13:56,969 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-29 10:07:00,342 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-29 15:35:28,558 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-29 17:18:19,552 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-29 18:18:13,061 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-29 20:28:16,440 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 09:09:27,256 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 10:10:44,131 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-30 11:10:11,534 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 12:12:44,158 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 12:17:56,437 [Worker-7: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-30 13:58:45,578 [Worker-14: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 14:11:13,982 [Worker-25: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-30 15:25:09,522 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 15:27:32,840 [Worker-11: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-11-30 16:26:35,971 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 17:06:32,756 [Worker-9: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 17:13:15,230 [Worker-9: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 17:30:13,990 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 18:11:04,412 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 18:25:27,909 [Worker-25: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/home/fran/eclipse-workspace/.git]
+2018-11-30 20:36:28,427 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 20:58:32,493 [Worker-14: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-01 12:04:05,674 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-01 12:09:07,773 [Worker-6: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-01 12:11:38,491 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 12:14:12,217 [Worker-8: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-01 12:43:46,798 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 13:10:17,162 [Worker-25: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-01 13:26:29,358 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 13:51:06,561 [Worker-12: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-01 14:45:06,321 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 14:53:08,400 [Worker-9: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-01 15:08:07,432 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 15:10:50,641 [Worker-17: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-01 17:52:24,713 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 18:22:23,074 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 18:42:04,248 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 20:53:13,485 [Worker-59: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-01 20:59:01,412 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-01 21:10:24,735 [Worker-13: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-02 12:12:41,331 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-02 14:22:44,859 [Worker-10: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-02 17:22:15,868 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-02 17:26:10,550 [Worker-7: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-02 17:56:11,564 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-02 18:28:28,133 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-02 18:38:39,155 [Worker-19: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-02 20:03:33,437 [Worker-10: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-02 20:13:44,719 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-02 20:57:25,169 [Worker-10: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-02 22:03:22,101 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-02 22:45:55,945 [Worker-5: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-02 23:45:49,096 [Worker-9: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 09:18:19,754 [Worker-9: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 09:35:57,865 [Worker-4: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 11:57:50,308 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 12:13:21,869 [Worker-15: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 12:59:58,748 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-03 13:00:01,156 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-12-03 13:05:54,427 [Worker-3: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 13:20:01,861 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-03 14:05:59,819 [Worker-11: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 14:36:14,866 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 14:38:11,362 [Worker-12: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 15:29:33,430 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 16:07:36,222 [Worker-7: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 17:04:13,792 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 17:07:00,361 [Worker-24: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 17:22:38,622 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 17:31:19,629 [Worker-26: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 19:41:01,814 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 19:46:28,899 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 20:35:41,077 [Worker-23: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 20:44:35,618 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 21:02:55,068 [Worker-14: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 21:22:43,142 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-03 21:38:04,029 [Worker-9: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-03 23:59:59,742 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 00:02:44,659 [Worker-11: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-04 01:43:33,739 [Worker-10: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 01:46:59,556 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 01:52:29,576 [Worker-26: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-04 11:14:57,703 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 11:24:22,477 [Worker-23: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-04 14:07:29,904 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-04 14:17:01,744 [Worker-12: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-04 15:04:06,163 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 15:11:24,698 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 15:18:47,588 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 15:59:04,514 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 19:07:41,440 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 19:44:01,976 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-04 20:38:12,638 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 12:48:24,281 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 13:07:20,716 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 13:11:03,987 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 14:44:19,165 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-05 16:44:20,194 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 17:34:32,887 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 18:15:18,046 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 18:27:47,214 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 20:18:44,149 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 20:21:57,605 [Worker-4: Publishing to Tomcat v9.0 Server at localhost...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /home/fran/eclipse-workspace/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
+2018-12-05 20:43:21,762 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 21:49:01,684 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 22:20:20,677 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 22:22:54,607 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-05 22:29:31,136 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-06 12:55:01,450 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-06 18:58:23,870 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-06 18:58:25,368 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-12-06 22:15:11,557 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-06 22:15:14,534 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-12-07 09:23:14,419 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-07 09:28:53,881 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 09:35:57,225 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 11:09:23,970 [Worker-12: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 12:30:36,972 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 12:34:45,701 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 13:41:31,244 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 14:22:16,537 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 15:28:52,562 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 15:32:45,769 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 18:09:24,489 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-07 21:01:52,786 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-08 14:17:23,058 [Worker-9: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-08 15:52:29,495 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

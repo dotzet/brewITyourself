@@ -1,0 +1,7 @@
+1543526307153	Move 'application-header.component.html' to 'app-body'
+1543526416606	Move 'application-header.component.html' to 'application-header'
+1543583621805	Rename resource 'sipplier-delete-form'
+1543583688622	Rename resource 'sipplier-delete-form.component.css'
+1543583704619	Rename resource 'sipplier-delete-form.component.html'
+1543583739424	Rename resource 'sipplier-delete-form.component.ts'
+1543583752705	Rename resource 'sipplier-delete-form.component.spec.ts'

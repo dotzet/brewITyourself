@@ -1,0 +1,44 @@
+import { Injectable } from '@angular/core';
+import { HttpClient, HttpHeaders,  } from '@angular/common/http';
+import { Observable } from 'rxjs';
+
+
+Injectable({
+  providedIn: 'root'
+});
+export interface Suppliers {
+  items: Supplier[];
+  items_count: number;
+}
+export interface Supplier {
+  vat: string;
+  companyName: string;
+  address: string;
+  city: string;
+  region: string;
+  postalCode: string;
+  country: string;
+  phone: string;
+  fax: string;
+  homePage: string;
+}
+export class SuppliersDaoService {
+
+  constructor(private http: HttpClient) { }
+  getSuppliers (): Observable<Suppliers> {
+    const endPointServer = 'http://localhost:8080';
+    const endPointProxy = '/my-proxy';
+ //   const endPointProxy = 'my-proxy';
+    const endPointService = '/com.dotzet.rest.jersey.crud.suppliers/api/suppliers';
+    const endPointMethod = '/list';
+    return this.http.get<Suppliers>(endPointProxy + endPointService + endPointMethod);
+  }
+}
+
+
+
+
+
+
+
+

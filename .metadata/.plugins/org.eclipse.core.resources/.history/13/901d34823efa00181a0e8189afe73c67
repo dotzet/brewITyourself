@@ -1,0 +1,34 @@
+import { Component, AfterViewInit } from '@angular/core';
+import { SuppliersDaoService } from '../../../suppliers-dao.service';
+import { HttpClient } from '@angular/common/http';
+import { ActivatedRoute } from '@angular/router';
+import { FormBuilder, FormGroup, ReactiveFormsModule } from '@angular/forms';
+
+@Component({
+  selector: 'app-supplier-read-form',
+  templateUrl: './supplier-read-form.component.html',
+  styleUrls: ['./supplier-read-form.component.css']
+})
+export class SupplierReadFormComponent implements AfterViewInit {
+  supplier: string;
+  suppliersDao: SuppliersDaoService | null;
+  supplierJSONstring: string;
+  supplierJSON: JSON;
+  options: FormGroup;
+
+  constructor(private http: HttpClient, private route: ActivatedRoute, fb: FormBuilder) {
+    this.supplier = this.route.snapshot.paramMap.get('supplier');
+    this.options = fb.group({
+      hideRequired: false,
+      floatLabel = ['auto'],
+    });
+  }
+  ngAfterViewInit() {
+    this.suppliersDao = new SuppliersDaoService(this.http);
+    this.suppliersDao.getSupplier(this.supplier).subscribe((data) => {
+    this.supplierJSONstring = JSON.stringify(data);
+    this.supplierJSON = JSON.parse(this.supplierJSONstring);
+    });
+  }
+
+}

@@ -1,0 +1,8 @@
+<div    fxLayout="row wrap"
+        fxLayoutAlign="flex-start">
+        <app-suppliers-dashboard-header></app-suppliers-dashboard-header>
+</div>
+<div    fxLayout="row wrap"
+        fxLayoutAlign="flex-start">
+        <app-suppliers-table></app-suppliers-table>
+<div>

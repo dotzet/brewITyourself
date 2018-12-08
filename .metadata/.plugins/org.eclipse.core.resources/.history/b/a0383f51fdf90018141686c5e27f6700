@@ -1,0 +1,9 @@
+app-application-header {
+    align-self: center !important;;
+    max-width: 90% !important;;
+}
+
+app-app-body {
+    align-self: center !important;;
+    max-width: 90% !important;;
+}

@@ -1,0 +1,11 @@
+<div 
+  fxLayout="row" 
+  fxLayoutGap="5px" 
+  fxLayoutAlign="left">
+  <div fxFlex="calc(90% - 5px)">
+    <span>CCVK</span>
+  </div>
+  <div fxFlex width="10%">
+    <img src="../../assets/images/logoCCVK-PNG.png"/>
+  </div>
+</div>

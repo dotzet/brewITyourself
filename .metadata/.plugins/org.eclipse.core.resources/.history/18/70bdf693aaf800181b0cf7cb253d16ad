@@ -1,0 +1,47 @@
+import { Component, AfterViewInit, ViewChild } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { SuppliersDaoService } from '../../../suppliers-dao.service';
+import { MatTableDataSource, MatPaginator, MatSort } from '@angular/material';
+import { tap } from 'rxjs/operators';
+@Component({
+  selector: 'app-suppliers-table',
+  templateUrl: './suppliers-table.component.html',
+  styleUrls: ['./suppliers-table.component.css']
+})
+export class SuppliersTableComponent implements AfterViewInit {
+//  displayedColumns: string[] = ['vat', 'companyName', 'address', 'city', 'region', 'postalCode', 'country', 'phone', 'fax', 'homePage'];
+  displayedColumns: string[] = ['companyName', 'phone'];
+  suppliersDao: SuppliersDaoService | null;
+  suppliersJSONstring: string;
+  suppliersJSON: JSON[];
+  datasource: MatTableDataSource<JSON> = new MatTableDataSource(this.suppliersJSON);
+  @ViewChild(MatSort) sort: MatSort;
+  @ViewChild(MatPaginator) paginator: MatPaginator;
+  constructor(private http: HttpClient) {
+    this.suppliersDao = new SuppliersDaoService(this.http);
+    this.suppliersDao.getSuppliers().subscribe((data) => {
+      console.log(data);
+      this.suppliersJSONstring = JSON.stringify(data);
+      this.suppliersJSON = JSON.parse(this.suppliersJSONstring);
+      this.datasource = new MatTableDataSource(this.suppliersJSON);
+      this.paginator.page
+        .pipe(
+        tap(() => data) // your dynamic data
+      );
+      console.log('suppliers JSON string not iterative: ' + this.suppliersJSONstring);
+      console.log('suppliers JSON same as any: ' + this.suppliersJSON);
+    });
+  }
+  ngAfterViewInit() {
+      this.datasource.paginator = this.paginator;
+      this.datasource.sort = this.sort;
+  }
+  applyFilter(filterValue: string) {
+    this.datasource.filter = filterValue.trim().toLowerCase();
+
+    if (this.datasource.paginator) {
+      this.datasource.paginator.firstPage();
+    }
+  }
+}
+

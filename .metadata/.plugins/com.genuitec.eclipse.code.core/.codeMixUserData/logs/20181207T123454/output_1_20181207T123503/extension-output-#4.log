@@ -1,0 +1,5 @@
+[Info  - 12:48:47 PM] Linter is running.
+Warning: The 'deprecation' rule requires type information.
+Warning: The 'no-use-before-declare' rule requires type information.
+[Info  - 12:49:17 PM] TSLint library loaded from: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/index.js
+[Info  - 12:50:42 PM] vscode-tslint: Status is OK

@@ -1,0 +1,16 @@
+.supplier-read-form-form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.supplier-read-form-form-container > * {
+  width: 100%;
+}
+
+.supplier-read-form-form-container form {
+  margin-bottom: 1em;
+}
+
+.supplier-read-form-form-container form > * {
+  margin: 5px 0;
+}

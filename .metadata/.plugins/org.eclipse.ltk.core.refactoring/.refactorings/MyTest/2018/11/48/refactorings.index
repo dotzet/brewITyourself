@@ -1,0 +1,7 @@
+1543487716080	Move 'button-suppliers' to 'dashboard'
+1543487770255	Rename resource 'button-suppliers'
+1543488871195	Rename resource 'button-suppliers.component.css'
+1543488902811	Rename resource 'button-suppliers.component.html'
+1543488931860	Rename resource 'button-suppliers.component.spec.ts'
+1543488958541	Rename resource 'button-suppliers.component.ts'
+1543490193782	Move 'app.component.html' to 'header'

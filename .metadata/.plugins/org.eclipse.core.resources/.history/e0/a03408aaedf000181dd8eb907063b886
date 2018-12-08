@@ -1,0 +1,24 @@
+.text-inside-grid {
+    position: absolute;
+    left: 1em;
+    top: 0em;
+    font-size: 1em;
+    font-weight: 900;
+}
+
+mat-grid-tile {
+  background: lightblue;
+}
+
+mat-grid-tile mat-grid-tile-footer {
+    background: white;
+    color: black;
+    font-size: 1em;
+    font-weight: 900;
+}
+
+.image-inside-grid {
+    position: absolute;
+    right: 0em;
+    top: 0em
+}

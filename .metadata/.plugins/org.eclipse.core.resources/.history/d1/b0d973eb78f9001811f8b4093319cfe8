@@ -1,0 +1,15 @@
+.app-header {
+    align-content: flex-start;
+    height: 3em;
+    max-height: 3em;
+    max-width: 100%;
+    width: 100%;
+}
+
+.app-header-company-name {
+    background-color: white;
+}
+
+.app-header-company-logo {
+    align-content: right;
+}

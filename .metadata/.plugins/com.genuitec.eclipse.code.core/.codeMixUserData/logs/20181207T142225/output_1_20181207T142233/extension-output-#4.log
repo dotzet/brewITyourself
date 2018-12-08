@@ -1,0 +1,44 @@
+[Info  - 2:24:09 PM] Linter is running.
+[Info  - 2:24:14 PM] TSLint library loaded from: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/index.js
+Warning: The 'deprecation' rule requires type information.
+Warning: The 'no-use-before-declare' rule requires type information.
+[Info  - 2:24:21 PM] vscode-tslint: Status is OK
+The 'quotemark' rule threw an error in '/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts':
+SyntaxError: Invalid regular expression: /\\)/: Unmatched ')'
+    at new RegExp (<anonymous>)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:106:33)
+    at visitNodes (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15788:30)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15968:21)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:109:12)
+    at visitNode (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15779:24)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:16025:24)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:109:12)
+    at visitNodes (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15788:30)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:16014:24)
+[Info  - 3:07:19 PM] vscode-tslint: Status is OK
+The 'quotemark' rule threw an error in '/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts':
+SyntaxError: Invalid regular expression: /\\)/: Unmatched ')'
+    at new RegExp (<anonymous>)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:106:33)
+    at visitNodes (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15788:30)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15968:21)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:109:12)
+    at visitNode (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15779:24)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:16025:24)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:109:12)
+    at visitNodes (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15788:30)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:16014:24)
+[Info  - 3:07:27 PM] vscode-tslint: Status is OK
+The 'quotemark' rule threw an error in '/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read/supplier-read.component.ts':
+SyntaxError: Invalid regular expression: /\\)/: Unmatched ')'
+    at new RegExp (<anonymous>)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:106:33)
+    at visitNode (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15779:24)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15996:21)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:109:12)
+    at visitNodes (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15788:30)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15968:21)
+    at cb (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/tslint/lib/rules/quotemarkRule.js:109:12)
+    at visitNode (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:15779:24)
+    at Object.forEachChild (/home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/node_modules/typescript/lib/typescript.js:16025:24)
+[Info  - 3:07:49 PM] vscode-tslint: Status is OK

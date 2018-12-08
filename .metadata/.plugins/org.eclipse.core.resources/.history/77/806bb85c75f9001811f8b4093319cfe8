@@ -1,0 +1,15 @@
+mat-card {
+    width: 0.1em !important;;
+    height: 0.1em !important;;
+    border: 2px solid black !important;;
+    border-radius: 5px !important;;
+    margin-left: 0.5em !important;;
+    margin-top: 0em !important;;
+}
+
+a img mat-card-image {
+    max-width: 2em !important;;
+    width: 2em !important;;
+    max-height: 2em !important;;
+    height: 2em !important;;    
+}

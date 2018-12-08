@@ -1,0 +1,8 @@
+<div  fxLayout = "row" fxLayoutAlign= "flex-start" class="app-header">
+  <div fxFlex="90%">
+    <app-company-name></app-company-name>
+  </div>
+  <div class="app-header-company-logo" fxFlex="10">
+    <app-company-logo></app-company-logo>
+  </div>
+</div>

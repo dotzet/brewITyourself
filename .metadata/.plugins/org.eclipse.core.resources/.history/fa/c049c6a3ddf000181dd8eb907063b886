@@ -1,0 +1,7 @@
+.text-inside-grid {
+    position: absolute;
+    left: 1em;
+    top: 0em;
+    font-size: 1em;
+    font-weight: 800;
+}

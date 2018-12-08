@@ -1,0 +1,19 @@
+.main-add-button {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.mat-card-add-button {
+    max-width: 1em;
+    max-height: 1em;
+    width: 1em;
+    height: 1em;
+    border: 3px solid black;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.main-dashboard-button-vertical-space {
+    min-height: 0.5em;
+    height: 0.5em;
+}

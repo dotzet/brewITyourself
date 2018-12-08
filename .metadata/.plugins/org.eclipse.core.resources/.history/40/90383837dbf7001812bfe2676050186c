@@ -1,0 +1,44 @@
+<mat-table [dataSource]="datasource" class="mat-elevation-z8">
+    <ng-container matColumnDef="vat">
+        <mat-header-cell *matHeaderCellDef> VAT </mat-header-cell>
+        <mat-cell *matCellDef="let element"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="companyName">
+        <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+        <mat-cell *matCellDef="let companyName"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="address">
+        <mat-header-cell *matHeaderCellDef> Address </mat-header-cell>
+        <mat-cell *matCellDef="let address"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="city">
+        <mat-header-cell *matHeaderCellDef> City </mat-header-cell>
+        <mat-cell *matCellDef="let city"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="region">
+        <mat-header-cell *matHeaderCellDef> Region </mat-header-cell>
+        <mat-cell *matCellDef="let region"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="postalCode">
+        <mat-header-cell *matHeaderCellDef> Postal Code </mat-header-cell>
+        <mat-cell *matCellDef="let postalCode"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="country">
+        <mat-header-cell *matHeaderCellDef> Country </mat-header-cell>
+        <mat-cell *matCellDef="let country"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="phone">
+        <mat-header-cell *matHeaderCellDef> Phone number </mat-header-cell>
+        <mat-cell *matCellDef="let phone"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="fax">
+        <mat-header-cell *matHeaderCellDef> Fax number </mat-header-cell>
+        <mat-cell *matCellDef="let fax"> </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="homePage">
+        <mat-header-cell *matHeaderCellDef> URL </mat-header-cell>
+        <mat-cell *matCellDef="let homePage"> </mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>

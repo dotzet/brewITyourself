@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;com-dotzet-rest-crud-dashboard/proxy.config.js&apos; to &apos;proxy.config.json&apos;" description="Rename resource &apos;proxy.config.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="proxy.config.js" name="proxy.config.json" stamp="1543846328368" updateReferences="true"/>
+</session>

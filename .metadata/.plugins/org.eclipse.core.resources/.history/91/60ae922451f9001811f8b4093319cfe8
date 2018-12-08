@@ -1,0 +1,14 @@
+.suppliers-dashboard-header {
+    height: 2em;
+    max-height: 2em;
+}
+
+.suppliers-dashboard-header-text {
+    height: 2em;
+    max-height: 2em;
+    color: black;
+    background-color: blue;
+    font-weight: 1000;
+    color: black;
+    align-content: left;
+}

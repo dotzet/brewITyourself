@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+@media only screen and (orientation: portrait) {
+    html {
+        max-width: 99% !important;
+        align-self: center !important; 
+    }
+}

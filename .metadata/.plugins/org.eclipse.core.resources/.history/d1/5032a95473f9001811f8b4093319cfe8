@@ -1,0 +1,19 @@
+mat-card {
+    max-width: 1em !important;;
+    max-height: 1em !important;;
+    min-width: 1em !important;;
+    min-height: 1em !important;;
+    width: 1em !important;;
+    height: 1em !important;;
+    border: 3px solid black !important;;
+    border-radius: 5px !important;;
+    margin-left: 0.5em !important;;
+    margin-top: 0em !important;;
+}
+
+mat-card a img {
+    max-width: 2em !important;;
+    width: 2em important;;
+    max-height: 2em !important;;
+    height: 2em !important;;    
+}

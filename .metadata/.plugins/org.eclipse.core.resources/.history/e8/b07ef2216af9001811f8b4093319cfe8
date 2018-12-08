@@ -1,0 +1,3 @@
+.deleteme {
+    background-color: red !important;;
+}

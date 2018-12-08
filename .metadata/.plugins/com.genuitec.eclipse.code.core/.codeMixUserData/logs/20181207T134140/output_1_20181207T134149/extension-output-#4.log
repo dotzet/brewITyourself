@@ -1,0 +1,548 @@
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 2.6.2
+getTemplateReferences: 16316ms
+Add recursive watcher for: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard
+Opened configuration file /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+Config errors encountered and need to be reported: 1
+  Argument for '--lib' option must be: 'es5', 'es6', 'es2015', 'es7', 'es2016', 'es2017', 'esnext', 'dom', 'dom.iterable', 'webworker', 'scripthost', 'es2015.core', 'es2015.collection', 'es2015.generator', 'es2015.iterable', 'es2015.promise', 'es2015.proxy', 'es2015.reflect', 'es2015.symbol', 'es2015.symbol.wellknown', 'es2016.array.include', 'es2017.object', 'es2017.sharedmemory', 'es2017.string', 'es2017.intl', 'esnext.asynciterable'.
+getDiagnostics: 36ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 912ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 1391ms
+getTemplateReferences: 0ms
+getDiagnostics: 643ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 24ms
+getDiagnostics: 402ms
+getDiagnostics: 241ms
+updating project structure from ...
+updated: ng - 454ms
+getCompletions: 171ms
+getDiagnostics: 1522ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 79ms
+updating project structure from ...
+updated: ng - 216ms
+getDiagnostics: 1022ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 95ms
+updating project structure from ...
+updated: ng - 210ms
+getDiagnostics: 611ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 79ms
+updating project structure from ...
+updated: ng - 176ms
+getDiagnostics: 687ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 1ms
+getDiagnostics: 158ms
+updating project structure from ...
+updated: ng - 196ms
+getDiagnostics: 730ms
+getDiagnostics: 85ms
+updating project structure from ...
+updated: ng - 353ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 1313ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 6ms
+getHoverAt: 10ms
+getDiagnostics: 139ms
+updating project structure from ...
+updated: ng - 239ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 820ms
+updating project structure from ...
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 70ms
+updating project structure from ...
+updated: ng - 507ms
+getHoverAt: 0ms
+getDiagnostics: 995ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 350ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 981ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getDiagnostics: 362ms
+updating project structure from ...
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 638ms
+getTemplateReferences: 0ms
+getDiagnostics: 30ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 8ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 804ms
+getHoverAt: 96ms
+getCompletions: 832ms
+getDiagnostics: 347ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 579ms
+updating project structure from ...
+getTemplateReferences: 187ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 682ms
+updating project structure from ...
+getTemplateReferences: 230ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 690ms
+updating project structure from ...
+getTemplateReferences: 185ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 567ms
+getDiagnostics: 969ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 666ms
+updating project structure from ...
+getTemplateReferences: 172ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 575ms
+updating project structure from ...
+getTemplateReferences: 361ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 675ms
+updating project structure from ...
+getTemplateReferences: 124ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 45ms
+getDiagnostics: 608ms
+updating project structure from ...
+getTemplateReferences: 279ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 523ms
+updating project structure from ...
+getTemplateReferences: 158ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 70ms
+getHoverAt: 82ms
+getDiagnostics: 572ms
+updating project structure from ...
+getTemplateReferences: 247ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 48ms
+getHoverAt: 23ms
+getDiagnostics: 582ms
+updating project structure from ...
+getTemplateReferences: 135ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 43ms
+getDiagnostics: 784ms
+updating project structure from ...
+getTemplateReferences: 131ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 485ms
+updating project structure from ...
+getTemplateReferences: 120ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 24ms
+getHoverAt: 43ms
+getCompletions: 768ms
+getDiagnostics: 11ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 636ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 974ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 1ms
+updated: ng - 0ms
+getDiagnostics: 13ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 748ms
+getHoverAt: 177ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 835ms
+getHoverAt: 2ms
+getCompletions: 407ms
+getDiagnostics: 2472ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 441ms
+getDiagnostics: 1283ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 544ms
+updating project structure from ...
+getTemplateReferences: 253ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 403ms
+updating project structure from ...
+getTemplateReferences: 152ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 49ms
+getDiagnostics: 907ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 685ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 845ms
+getDiagnostics: 102ms
+getDiagnostics: 613ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 562ms
+getDiagnostics: 622ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 496ms
+getDiagnostics: 667ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 567ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 75ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 53ms
+getHoverAt: 51ms
+getDiagnostics: 681ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 1941ms
+getDiagnostics: 1320ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/suppliers-table
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 238ms
+updating project structure from ...
+getTemplateReferences: 250ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/src/app/app-body/suppliers-dashboard/supplier-read-form
+Config file name: /home/fran/eclipse-workspace/brewITyourself/com-dotzet-rest-crud-dashboard/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 1032ms
+updating project structure from ...
+getTemplateReferences: 338ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 77ms
+getHoverAt: 109ms
+getDiagnostics: 563ms
+updating project structure from ...
+getTemplateReferences: 212ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+updating project structure from ...
+getTemplateReferences: 1ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 462ms
+updating project structure from ...
+getTemplateReferences: 92ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 871ms
+updating project structure from ...
+getTemplateReferences: 153ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 611ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 451ms
+updating project structure from ...
+getTemplateReferences: 107ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 440ms
+updating project structure from ...
+getTemplateReferences: 138ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 409ms
+updating project structure from ...
+getTemplateReferences: 87ms
+getTemplateReferences: 0ms
+getTemplateReferences: 1ms
+updated: ng - 0ms
+getDiagnostics: 429ms
+updating project structure from ...
+getTemplateReferences: 96ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 411ms
+updating project structure from ...
+getTemplateReferences: 105ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 101ms
+getCompletions: 733ms
+getDiagnostics: 26ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 531ms
+updating project structure from ...
+getTemplateReferences: 123ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 442ms
+updating project structure from ...
+getTemplateReferences: 158ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 437ms
+getDiagnostics: 862ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 402ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 64ms
+getHoverAt: 0ms
+getDiagnostics: 1175ms
+updating project structure from ...
+getTemplateReferences: 388ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 1455ms
+updating project structure from ...
+getTemplateReferences: 436ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 911ms
+updating project structure from ...
+getTemplateReferences: 202ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 622ms
+getCompletions: 213ms
+getDiagnostics: 1488ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 208ms
+getDiagnostics: 193ms
+updating project structure from ...
+getTemplateReferences: 75ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 526ms
+getDiagnostics: 1130ms
+updating project structure from ...
+getTemplateReferences: 0ms
+getTemplateReferences: 2ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 430ms
+updating project structure from ...
+getTemplateReferences: 96ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getCompletions: 110ms
+getCompletions: 148ms
+getCompletions: 262ms
+getDiagnostics: 824ms
+updating project structure from ...
+getTemplateReferences: 284ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 1ms
+getHoverAt: 4ms
+getDiagnostics: 924ms
+updating project structure from ...
+getTemplateReferences: 202ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 160ms
+getDiagnostics: 859ms
+updating project structure from ...
+getTemplateReferences: 199ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 825ms
+updating project structure from ...
+getTemplateReferences: 259ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 776ms
+updating project structure from ...
+getTemplateReferences: 1247ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 944ms
+updating project structure from ...
+getTemplateReferences: 1159ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updated: ng - 0ms

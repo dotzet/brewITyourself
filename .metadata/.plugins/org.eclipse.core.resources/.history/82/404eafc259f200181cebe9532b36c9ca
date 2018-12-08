@@ -1,0 +1,41 @@
+<mat-card>
+    <mat-card-content>
+        <button mat-raised-button color="primary">
+            <br>
+        </button>
+    </mat-card-content>
+    <mat-card-footer>Proveedores</mat-card-footer>
+</mat-card>
+<mat-card>
+    <mat-card-content>
+        <button mat-raised-button color="primary">
+                 <span></span>   
+        </button>
+    </mat-card-content>
+    <mat-card-footer>Proveedores</mat-card-footer>
+</mat-card>
+<mat-card>
+    <mat-card-content>
+        <button mat-raised-button color="primary">
+                 <span></span>   
+        </button>
+    </mat-card-content>
+    <mat-card-footer>Proveedores</mat-card-footer>
+</mat-card>
+<mat-card>
+    <mat-card-content>
+        <button mat-raised-button color="primary">
+                 <span></span>   
+        </button>
+    </mat-card-content>
+    <mat-card-footer>Proveedores</mat-card-footer>
+</mat-card>
+<mat-card>
+    <mat-card-content>
+        <button mat-raised-button color="primary">
+                 <span></span>   
+        </button>
+    </mat-card-content>
+    <mat-card-footer>Proveedores</mat-card-footer>
+</mat-card>
+        

@@ -1,0 +1,30 @@
+import { Component, AfterViewInit } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
+import { Supplier } from '../../../suppliers-dao.service';
+import { SuppliersDaoService } from '../../../suppliers-dao.service';
+
+
+
+
+@Component({
+  selector: 'app-suppliers-table',
+  templateUrl: './suppliers-table.component.html',
+  styleUrls: ['./suppliers-table.component.css']
+})
+export class SuppliersTableComponent implements AfterViewInit {
+
+  displayedColumns = ['VAT', 'Company name', 'Address', 'City', 'Region', 'Postal Code', 'Country', 'Phone number', 'Fax', 'Home page'];
+  suppliersDao: SuppliersDaoService | null;
+  suppliersJSON: JSON;
+  suppliersJSONString: string;
+  constructor(private http: HttpClient) { }
+
+  ngAfterViewInit() {
+    this.suppliersDao = new SuppliersDaoService(this.http);
+    this.suppliersJSON = this.suppliersDao.getSuppliers();
+    this.suppliersJSONString = JSON.stringify(this.suppliersJSON);
+    console.log('' + this.suppliersJSONString);
+  }
+}
+

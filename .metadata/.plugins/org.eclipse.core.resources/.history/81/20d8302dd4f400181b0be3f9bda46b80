@@ -1,0 +1,17 @@
+import { Component, OnInit } from '@angular/core';
+
+import { ServiceRestService } from '../../../service-rest.service';
+
+@Component({
+  selector: 'app-suppliers-table',
+  templateUrl: './suppliers-table.component.html',
+  styleUrls: ['./suppliers-table.component.css']
+})
+export class SuppliersTableComponent implements OnInit {
+
+  constructor() { }
+
+  ngOnInit() {
+  }
+
+}

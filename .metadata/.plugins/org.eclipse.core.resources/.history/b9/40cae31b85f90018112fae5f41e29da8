@@ -1,0 +1,4 @@
+<app-suppliers-dashboard-header></app-suppliers-dashboard-header>
+<div class="suppliers-dashboard-suppliers-table">
+    <app-suppliers-table></app-suppliers-table>
+</div>

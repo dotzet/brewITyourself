@@ -1,0 +1,5 @@
+<p>
+  {{supplierJSONstring}}
+
+    BOTON ACEPTAR
+</p>

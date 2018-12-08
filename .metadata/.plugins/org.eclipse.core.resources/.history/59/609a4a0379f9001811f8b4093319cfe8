@@ -1,0 +1,7 @@
+.company-logo {
+    max-height: 3em;
+    max-width: auto;
+    height: 3em;
+    width: auto;
+    align-items: flex-end;
+}

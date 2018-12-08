@@ -1,0 +1,6 @@
+<mat-table [dataSource]="datasource" class="mat-elevation-z8">
+    <ng-container matColumnDef="vat">
+    <mat-header-cell *matHeaderCellDef> VAT </mat-header-cell>
+    <mat-cell *matCellDef="let vat"> {{suppliersJSON.vat}} </mat-cell>
+  </ng-container>
+</mat-table>

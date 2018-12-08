@@ -1,0 +1,6 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <span>CCVK</span>
+    <span class="header-spacer"></span>
+    <img src="https://goo.gl/images/h1xDrq" />
+  </mat-toolbar-row>

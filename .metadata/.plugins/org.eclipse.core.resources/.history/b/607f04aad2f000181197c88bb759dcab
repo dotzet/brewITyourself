@@ -1,0 +1,14 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:left">
+  <mat-grid-list cols="4" rows="2">
+    <mat-grid-tile colspan="3" rowspan="1">
+      <h1>CCVK</h1>
+    </mat-grid-tile>
+    <mat-grid-tile colspan="1" rowspan="2">
+      <img width="100%" alt="CCVK Logo" src="../assets/images/logoCCVK.jpg">
+    </mat-grid-tile>
+    <mat-grid-tile colspan="3" rowspan="1">
+      <h1>Here will go placed the breadcrumbs with small icons</h1>
+    </mat-grid-tile>
+  </mat-grid-list>
+</div>

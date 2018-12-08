@@ -1,0 +1,5 @@
+Suppliers table component loaded!!!
+
+  <p>{{suppliersJSON.items}}</p>
+
+

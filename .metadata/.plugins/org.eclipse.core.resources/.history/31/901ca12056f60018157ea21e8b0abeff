@@ -1,0 +1,2 @@
+Suppliers table component loaded!!!
+{{dataSource.data}}

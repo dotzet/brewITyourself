@@ -1,0 +1,6 @@
+<mat-card fxFlex>
+        <mat-fab>
+            <img fxFlex src="../../assets/images/logoCCVK-SVG.svg" />
+        </mat-fab>
+        <mat-card-footer>Suppliers</mat-card-footer>
+<mat-card>

@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+app-aplication-header {
+    align-self: center !important;;
+    max-width: 50% !important;;
+}
+
+app-app-body {
+    align-self: center !important;;
+    max-width: 50% !important;;
+}

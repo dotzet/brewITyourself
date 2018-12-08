@@ -1,0 +1,3 @@
+<app-suppliers-dashboard-header></app-suppliers-dashboard-header>
+<app-supplier-create></app-supplier-create>
+<app-suppliers-table></app-suppliers-table>

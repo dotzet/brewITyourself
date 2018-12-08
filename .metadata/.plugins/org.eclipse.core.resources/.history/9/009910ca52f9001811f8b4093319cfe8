@@ -1,0 +1,30 @@
+mat-card {
+    max-width: 2.5em !important;;
+    max-height: 2.5em !important;;
+    width: 2.5em !important;;
+    height: 2.5em !important;;
+    border: 3px solid black !important;;
+    border-radius: 20px !important;;
+    margin-left: 2em !important;;
+    margin-top: 3em !important;;
+    background-color: black !important;;
+}
+
+mat-card-image {
+    max-width: 2em !important;;
+    width: 2em !important;;
+    max-height: 2em !important;;
+    height: 2em !important;;    
+}
+
+mat-card-content {
+    color: black !important;;
+    text-align: center !important;;
+    font-size: 1em !important;;
+    font-weight: 500 !important;;
+    margin-top: -1em !important;;
+    margin-left: -2em !important;;
+    margin-right: -2em !important;;
+    margin-bottom: -1em !important;;
+    padding: 0
+}

@@ -1,0 +1,6 @@
+<mat-card>
+    <mat-card-content style="display:flex; flex-direction: column;">
+        <img mat-card-image src="../../assets/images/logoCCVK-SVG.svg">
+    </mat-card-content>
+    <mat-card-footer>Proveedores</mat-card-footer>
+</mat-card>

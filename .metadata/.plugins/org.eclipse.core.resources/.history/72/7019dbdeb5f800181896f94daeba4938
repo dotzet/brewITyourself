@@ -1,0 +1,6 @@
+<div  fxLayout = "row wrap"
+      fxLayoutAlign= "flex-start top"
+      fxFlex="100%"
+      class="suppliers-dashboard-header">
+      Proveedores
+</div>

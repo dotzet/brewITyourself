@@ -1,0 +1,5 @@
+Suppliers table component loaded!!!
+
+<li *ngFor="let item of (suppliersJSON | async)">
+    {{ item }}
+</li>

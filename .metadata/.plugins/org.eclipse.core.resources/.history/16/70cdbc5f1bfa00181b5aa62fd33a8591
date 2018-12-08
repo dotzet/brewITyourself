@@ -1,0 +1,21 @@
+import { Component, AfterViewInit, Input } from '@angular/core';
+import { SuppliersDaoService } from '../../../suppliers-dao.service';
+
+@Component({
+  selector: 'app-supplier-read-form',
+  templateUrl: './supplier-read-form.component.html',
+  styleUrls: ['./supplier-read-form.component.css']
+})
+export class SupplierReadFormComponent implements OnInit {
+
+  @Input() supplier: string;
+  suppliersDAO: SuppliersDaoService | null;
+  constructor() {
+
+  }
+
+  ngAfterViewInit() {
+
+  }
+
+}

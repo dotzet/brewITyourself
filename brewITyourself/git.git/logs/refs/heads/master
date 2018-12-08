@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 2dde83ab6dc48d72c63db6ea6ebb456069faeace Fran <franciscojose.alcazarescuder@gmail.com> 1543599498 +0100	commit (initial): Test afteer changing the location of the local repository
+2dde83ab6dc48d72c63db6ea6ebb456069faeace 0ebdee84ba14ec3d02aca335c6b4d6793a304781 Fran <franciscojose.alcazarescuder@gmail.com> 1543696549 +0100	commit: Version 0.0.1 after connecting to the rest and getting an object.
+0ebdee84ba14ec3d02aca335c6b4d6793a304781 72417b46e66693181c6f3df7a01b5617d0ca928a Fran <franciscojose.alcazarescuder@gmail.com> 1543928692 +0100	commit: version 0.0.1 -- REST connected (cleaning pending) - before adding mat-table
+72417b46e66693181c6f3df7a01b5617d0ca928a 582c998228093ead32b349052cde26e3a456e795 Fran <franciscojose.alcazarescuder@gmail.com> 1543953203 +0100	commit: version 0.0.1 - Datasource connected to the table - Code cleaning and table formatting pending
